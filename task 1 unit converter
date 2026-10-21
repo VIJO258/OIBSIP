@@ -1,0 +1,27 @@
+Unit Converter Application
+
+Internship: Oasis Infobyte Student Internship Program
+
+Track: Android App Development — Task 1
+
+Description
+
+A simple application that converts values between different units.
+
+Features
+
+- Numeric input
+- Length, Weight, and Volume categories
+- Source and target unit selection
+- Conversion result
+- Input validation
+
+Technologies
+
+- Java
+- XML
+- Android
+
+Project Status
+
+Initial project documentation. Source code and screenshots will be added after testing.
